@@ -35,6 +35,10 @@
     color: #fff;
 }
 
+.icon-box [class^="flaticon-"]:before {
+    margin-left: 0;
+}
+
 
 
 
@@ -117,6 +121,10 @@
 
 .call-to-action-section:before {
     background-color: #1b75bc;
+}
+
+.we_are .right_side .list_item p {
+    padding-right: 10px;
 }
 
 
