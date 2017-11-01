@@ -38,6 +38,7 @@ font-family: 'Hind Madurai', sans-serif;*/
 
 @import url('font-awesome.css');
 @import url('flaticon.css');
+@import url('../fonts/font/flaticon.css');
 @import url('animate.css');
 @import url('owl.css');
 @import url('jquery.fancybox.css');

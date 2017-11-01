@@ -22,7 +22,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
@@ -72,3 +72,4 @@ margin-left: 20px;
 .flaticon-placeholder-1:before { content: "\f128"; }
 .flaticon-mail:before { content: "\f129"; }
 .flaticon-placeholder:before { content: "\f12a"; }
+.flaticon-aeroplane:before { content: "\f12b"; }

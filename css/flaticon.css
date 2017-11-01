@@ -1,7 +1,4 @@
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 01/10/2017 18:47
-  	*/
+@import "flaticons.css";
 
 @font-face {
   font-family: "Flaticon";
@@ -22,7 +19,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
 
@@ -70,4 +67,5 @@
 .flaticon-technology:before { content: "\f127"; }
 .flaticon-placeholder-1:before { content: "\f128"; }
 .flaticon-mail:before { content: "\f129"; }
+.flaticon-aeroplane:before { content: "\f12b"; }
 .flaticon-placeholder:before { content: "\f12a"; }
