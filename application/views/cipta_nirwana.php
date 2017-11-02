@@ -297,7 +297,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                     <div class="welcome-item display-table">
                         <div class="img-box">
-                            <img src="<?php echo base_url();?>assets/images/resource/welcome-3.jpg" alt="">
+                            <img src="<?php echo base_url();?>assets/images/resource/airplane.jpg" alt="">
                         </div>
                         <div class="content">
                             <h3>Tour & Travel dan Umroh & Haji</h3>

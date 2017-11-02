@@ -154,6 +154,19 @@
     z-index: 1;
 }
 
+.welcome-item .img-box {
+    overflow: hidden;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-item.display-table .img-box {
+    width: 29%;
+    height: initial;
+}
+
 
 
 
