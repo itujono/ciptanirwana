@@ -271,7 +271,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <div class="welcome-item">
+                    <div class="welcome-item big">
                         <div class="img-box">
                             <img src="<?php echo base_url();?>assets/images/gallery/6.jpg" alt="">
                         </div>
@@ -300,9 +300,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <img src="<?php echo base_url();?>assets/images/resource/airplane.jpg" alt="">
                         </div>
                         <div class="content">
-                            <h3>Tour & Travel dan Umroh & Haji</h3>
+                            <h3>Tour & Travel</h3>
                             <div class="text">
-                                <p>Melayani tiket pesawat dalam dan luar negeri, tour dalam dan luar negeri, serta umroh dan haji.</p>
+                                <p>Melayani tiket pesawat dalam dan luar negeri, tour dalam dan luar negeri.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="welcome-item display-table">
+                        <div class="img-box">
+                            <img src="<?php echo base_url();?>assets/images/resource/kabah.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Umroh & Haji</h3>
+                            <div class="text">
+                                <p>Melayani kegiatan umroh dan haji.</p>
                             </div>
                         </div>
                     </div>
