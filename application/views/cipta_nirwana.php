@@ -69,13 +69,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <li>ciptanirwana@gmail.com</li>
                             </ul>
                         </div>
-                        <div class="upper-column info-box">
-                        	<div class="icon-box"><span class="flaticon-clock"></span></div>
-                            <ul>
-                            	<li><strong>Jam kerja</strong></li>
-                                <li>Senin - Sabtu</li>
-                            </ul>
-                        </div>
                     </div>
 
                 </div>
@@ -873,8 +866,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <li><a class="scroll-to-target" data-target="#about">Trucking Rental</a></li>
                                         <li><a class="scroll-to-target" data-target="#about">Tour & Travel, Umroh & Haji</a></li>
                                     </ul>
-                                    <h2>Jam Kerja</h2>
-                                    <div class="date">Senin - Sabtu <br> Minggu: <span class="theme_color">tutup</span></div>
                                 </div>
                             </div>
 
