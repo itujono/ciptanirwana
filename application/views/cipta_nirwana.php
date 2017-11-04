@@ -102,7 +102,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </nav>
                     <!-- Main Menu End-->
                     <div class="btn-box">
-                    	<a href="<?php echo base_url();?>file/Booklet - Cipta Nirwana Pratama, PT.pdf" class="brochure-btn theme-btn"><span class="icon fa fa-download theme_color"></span>&nbsp; Download Booklet</a>
+                    	<a href="<?php echo base_url();?>file/Booklet_-_Cipta_Nirwana_Pratama_PT" class="brochure-btn theme-btn"><span class="icon fa fa-download theme_color"></span>&nbsp; Download Booklet</a>
                     </div>
                 </div>
             </div>
