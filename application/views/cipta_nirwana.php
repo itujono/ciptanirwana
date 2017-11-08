@@ -839,7 +839,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             data-type="roadmap"
                             data-hue="#ffc400"
                             data-title="PT Cipta Nirwana Pratama"
-                            data-icon-path="images/icons/map-marker.png"
+                            data-icon-path="<?php echo base_url();?>assets/images/icons/map-marker.png"
                             data-content="Tiban Sentra Niaga Blok E #1<br><a href='mailto:ciptanirwana@gmail.com'>ciptanirwana@gmail.com</a>">
                         </div>
                     </div>
