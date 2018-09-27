@@ -95,9 +95,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a class="scroll-to-target" data-target="#home">Home</a></li>
+                                    <li class="current"><a href="home">Home</a></li>
                                     <li><a class="scroll-to-target" data-target="#about">Tentang Kami</a></li>
                                     <li><a class="scroll-to-target" data-target="#project">Proyek Kami</a></li>
+                                    <li><a href="eed">EED Division</a></li>
                                     <li><a class="scroll-to-target" data-target="#gallery">Galeri</a></li>
                                     <li><a class="scroll-to-target" data-target="#contact">Kontak Kami</a></li>
                                 </ul>
